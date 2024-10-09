@@ -1,0 +1,9 @@
+body{
+    background: ReportingObserver(75,71,71);
+    color: white;
+}
+
+/* 16px */
+.counter__conatiner{
+    margin: 2rem;
+}
